@@ -1,0 +1,38 @@
+_repo: Life-Is-a-Dream_2587
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: FitzGerald, Edward
+    alias: Purcell, Edward
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '138'
+    url: http://www.gutenberg.org/2009/agents/138
+    wikipedia: http://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+creator:
+  author:
+    agent_name: Calderón de la Barca, Pedro
+    aliases:
+    - Barca, Pedro Calderón de la
+    - Calderon de la Barca, Pedro
+    birthdate: 1600
+    deathdate: 1681
+    gutenberg_agent_id: '970'
+    url: http://www.gutenberg.org/2009/agents/970
+    wikipedia: http://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
+description: See also PG#6363 tr. by Denis Florence MacCarthy
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2006-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PQ'
+- GITenberg
+title: Life Is a Dream
+url: http://www.gutenberg.org/ebooks/2587
