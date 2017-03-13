@@ -1,5 +1,5 @@
 _repo: Life-Is-a-Dream_2587
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: FitzGerald, Edward
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '138'
     url: http://www.gutenberg.org/2009/agents/138
     wikipedia: http://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Calderón de la Barca, Pedro
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/970
     wikipedia: http://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
 description: See also PG#6363 tr. by Denis Florence MacCarthy
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2587#Life-Is-a-Dream
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2006-03-31'
 gutenberg_type: Text
